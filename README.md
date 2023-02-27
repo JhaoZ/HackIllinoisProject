@@ -1,2 +1,3 @@
 # HackIllinoisProject
-HackIllinois2023
+
+GeoGenie, a project made for HackIllinois2023
